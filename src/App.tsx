@@ -338,7 +338,7 @@ function App() {
             </div>
             <div className="flex-1 flex justify-center">
               <div className="bg-gray-700/50 rounded-full px-4 py-1 text-xs text-gray-300 flex items-center max-w-md w-full shadow-inner">
-                <span className="truncate">https://kyouu.dev</span>
+                <span className="truncate">https://nekos.work</span>
                 <Moon className="w-3 h-3 ml-2 text-gray-400" />
               </div>
             </div>
@@ -356,17 +356,17 @@ function App() {
                 <div className="flex flex-col items-center">
                   <div className="w-24 h-24 rounded-full bg-indigo-600 overflow-hidden border-4 border-indigo-500/30 shadow-lg mb-4 hover:scale-105 transition-transform duration-300">
                     <img 
-                      src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/480664684_1866578507504041_3385648364164240444_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHZaZBj894HO8IbEJOhRVvqmWvLweIigA6Za8vB4iKADjktMknkyLYVRMMdGEEPlWIIP90wZuDMkhYC7I6Y3Prr&_nc_ohc=WId5QSEgS9sQ7kNvgF1LZMZ&_nc_oc=AdgDdB_fQ8Oxs354aOwER6zjDirMmTMw1COR5qdtHC_SRjwEy5Ck6UCcjEVMkJ_Ido1Y1zqIAiRUoHSieSvrmDLd&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=A7zCE59puezAFfUfEBz8Hsn&oh=00_AYDHfMHr5gGzB5k9j8oOtKoUa1i3Qvs9W1dFz-B1nxjReg&oe=67CBB65B" 
+                      src="https://media.discordapp.net/attachments/590791489509130249/1351893239103492147/IMG_2248.png?ex=67dc0831&is=67dab6b1&hm=da5964f9f303b87145cbe7685844ac8ff1aa30b82d8b3c43f562e7e4ec340e27&=&format=webp&quality=lossless" 
                       alt="Profile" 
                       className="w-full h-full object-cover"
                     />
                   </div>
-                  <h2 className="text-xl font-bold text-white mb-1">Kyoukaii.</h2>
+                  <h2 className="text-xl font-bold text-white mb-1">Zenith</h2>
                   <div className="px-3 py-1 bg-indigo-600/30 rounded-full text-xs font-medium text-indigo-300 mb-3">
-                    UI/UX Designer/ Coder
+                    Bruh.
                   </div>
                   <p className="text-gray-300 text-sm text-center mb-4">
-                    but i still say, they're flower.
+                    owo what dis.
                   </p>
                   <div className="w-full border-t border-gray-700/50 pt-4 mt-2">
                     <h3 className="text-gray-400 uppercase text-xs font-bold mb-2">Status</h3>
@@ -390,7 +390,7 @@ function App() {
                     about me.
                   </h3>
                   <p className="text-gray-300 mb-3">
-                    - Welcome to my website, this is my introduce, 16 y/o. I'm currently working as a freelancer coder/ designer part time.
+                    - Welcome to my website, this is my introduce, 17 y/o. I'm currently working as a freelancer coder.
                   </p>
                   <p className="text-gray-300">
                     - I'm currently still in highschool, you can find/ contact me on Facebook, or Discord.
@@ -405,13 +405,13 @@ function App() {
                     {/* Project 1 */}
                     <div className="bg-gray-700/50 rounded-lg p-4 hover:bg-gray-600/60 hover:scale-[1.02] transition-all duration-300">
                       <div className="flex justify-between items-start">
-                        <h4 className="font-medium text-indigo-300">thanhbinh0107.github.io</h4>
-                        <a href="#" className="text-gray-400 hover:text-white transition-colors">
+                        <h4 className="font-medium text-indigo-300">Zenith727/UmaLauncher</h4>
+                        <a href="https://github.com/Zenith727/UmaLauncher" className="text-gray-400 hover:text-white transition-colors">
                           <ExternalLink className="w-4 h-4" />
                         </a>
                       </div>
                       <p className="text-gray-400 text-sm mt-1">
-                        My own GitHub page, but currently not working for some reason (My education pack expires ahh.)
+                        Some tools for the Uma Musume game
                       </p>
                       <div className="flex flex-wrap gap-2 mt-3">
                         <span className="px-2 py-1 bg-blue-900/30 rounded-full text-xs text-blue-300">HTML</span>
@@ -423,13 +423,13 @@ function App() {
                     {/* Project 2 */}
                     <div className="bg-gray-700/50 rounded-lg p-4 hover:bg-gray-600/60 hover:scale-[1.02] transition-all duration-300">
                       <div className="flex justify-between items-start">
-                        <h4 className="font-medium text-indigo-300">kyouu.dev</h4>
-                        <a href="#" className="text-gray-400 hover:text-white transition-colors">
+                        <h4 className="font-medium text-indigo-300">nekos.work</h4>
+                        <a href="https://nekos.work" className="text-gray-400 hover:text-white transition-colors">
                           <ExternalLink className="w-4 h-4" />
                         </a>
                       </div>
                       <p className="text-gray-400 text-sm mt-1">
-                        same as GitHub pages, but I haven't own the domain yet.
+                        This page here
                       </p>
                       <div className="flex flex-wrap gap-2 mt-3">
                         <span className="px-2 py-1 bg-blue-900/30 rounded-full text-xs text-blue-300">HTML</span>
@@ -451,14 +451,14 @@ function App() {
               <h3 className="text-lg font-bold text-white mb-4">contact if you need!!</h3>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <a 
-                  href="#" 
+                  href="https://github.com/Zenith727" 
                   className="flex items-center justify-center gap-2 bg-gray-700/50 p-3 rounded-lg hover:bg-gray-600/60 hover:scale-105 transition-all duration-300 group"
                 >
                   <Github className="w-5 h-5 text-gray-400 group-hover:text-white transition-colors" />
                   <span className="text-gray-300 group-hover:text-white transition-colors">GitHub</span>
                 </a>
                 <a 
-                  href="#" 
+                  href="https://www.facebook.com/zenith.xanh" 
                   className="flex items-center justify-center gap-2 bg-gray-700/50 p-3 rounded-lg hover:bg-gray-600/60 hover:scale-105 transition-all duration-300 group"
                 >
                   <Facebook className="w-5 h-5 text-gray-400 group-hover:text-white transition-colors" />
@@ -472,7 +472,7 @@ function App() {
                   <span className="text-gray-300 group-hover:text-white transition-colors">Twitter</span>
                 </a>
                 <a 
-                  href="#" 
+                  href="zenith@nekos.work" 
                   className="flex items-center justify-center gap-2 bg-gray-700/50 p-3 rounded-lg hover:bg-gray-600/60 hover:scale-105 transition-all duration-300 group"
                 >
                   <Mail className="w-5 h-5 text-gray-400 group-hover:text-white transition-colors" />
@@ -483,7 +483,7 @@ function App() {
 
             {/* Footer */}
             <div className="mt-8 text-center text-gray-500 text-xs">
-              © {new Date().getFullYear()} Kyoukaii • Built with React & Tailwind CSS.
+              © {new Date().getFullYear()} Zenith • Built with React & Tailwind CSS. Source by @Kyoukaii_
             </div>
           </div>
         </div>
