@@ -392,8 +392,22 @@ function App() {
                   <p className="text-gray-300 mb-3">
                     - Welcome to my website, this is my introduce, 17 y/o. I'm currently working as a freelancer coder.
                   </p>
+                  <p className="text-gray-300 mb-3">
+                    - Project for group project of group 1 include of after this it will be my about page.
+                  </p>
                   <p className="text-gray-300">
-                    - I'm currently still in highschool, you can find/ contact me on Facebook, or Discord.
+                    - The group consist of
+                    03. Nguyễn Nhật Minh Ánh
+                      04. Đỗ Thị Trúc Đào
+                      06. Trần Nguyễn Hương Giang 
+                      07. Đặng Diệu Hà
+                      08. Trần Khánh Hà 
+                      10. Lê Trung Hiếu
+                      14. Trần Tuấn Khanh
+                      15. Lê Thanh Lan
+                      18. Nguyễn Phương Linh
+                      32. Nguyễn Thị Thùy Trang
+                      39. Phạm Khánh Vân
                   </p>
                 </div>
 
@@ -414,8 +428,7 @@ function App() {
                         Some tools for the Uma Musume game
                       </p>
                       <div className="flex flex-wrap gap-2 mt-3">
-                        <span className="px-2 py-1 bg-blue-900/30 rounded-full text-xs text-blue-300">HTML</span>
-                        <span className="px-2 py-1 bg-green-900/30 rounded-full text-xs text-green-300">CSS</span>
+                        <span className="px-2 py-1 bg-blue-900/30 rounded-full text-xs text-blue-300">Python</span>
                         <span className="px-2 py-1 bg-purple-900/30 rounded-full text-xs text-purple-300">JavaScript</span>
                       </div>
                     </div>
