@@ -363,7 +363,7 @@ function App() {
                   </div>
                   <h2 className="text-xl font-bold text-white mb-1">Zenith</h2>
                   <div className="px-3 py-1 bg-indigo-600/30 rounded-full text-xs font-medium text-indigo-300 mb-3">
-                    Bruh.
+                    Meow.
                   </div>
                   <p className="text-gray-300 text-sm text-center mb-4">
                     owo what dis.
