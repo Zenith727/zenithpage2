@@ -34,7 +34,7 @@ function App() {
       title: "Flower Dance",
       artist: "DJ OKAWARI",
       duration: "4:23",
-      cover: "https://cdn.discordapp.com/attachments/1253368225966719038/1346195813570838628/image.png?ex=67c74e0d&is=67c5fc8d&hm=f0a1d26f5b9b3e6cd06d0ea71cecb4e278e207f07d7ed18e8583e8f2d749e6f7&",
+      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/e2/37/e3e23706-5276-c4ae-b3fc-46a0c708c577/4538182139936_cov.jpg/316x316bb.webp",
       src: "https://files.catbox.moe/fa939p.mp3"
     }
   ];
