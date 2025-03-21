@@ -15,7 +15,7 @@ function App() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const progressInterval = useRef<number | null>(null);
 
-  const playlist = [
+  const playlist = [ 
     {
       title: "you broke my heart again",
       artist: "teqkoi",
@@ -24,11 +24,11 @@ function App() {
       src: "https://files.catbox.moe/wt0xw7.mp3"
     },
     {
-      title: "WaVeStar",
-      artist: "WaVe & Arena Of Valor",
-      duration: "5:20",
-      cover: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/99/18/cf/9918cfd7-0633-a712-db2d-704b4154f822/859751053441_cover.jpg/800x800cc.jpg",
-      src: "https://files.catbox.moe/6p1uxv.mp3"
+      title: "系ぎて",
+      artist: "rintaro soma",
+      duration: "2:54",
+      cover: "https://silentblue.remywiki.com/images/thumb/f/ff/Tsunagite.png/300px-Tsunagite.png",
+      src: "https://files.catbox.moe/om018o.mp3"
     },
     {
       title: "Flower Dance",
