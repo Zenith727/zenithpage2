@@ -356,7 +356,7 @@ function App() {
                 <div className="flex flex-col items-center">
                   <div className="w-24 h-24 rounded-full bg-indigo-600 overflow-hidden border-4 border-indigo-500/30 shadow-lg mb-4 hover:scale-105 transition-transform duration-300">
                     <img 
-                      src="https://media.discordapp.net/attachments/590791489509130249/1351893239103492147/IMG_2248.png?ex=67dc0831&is=67dab6b1&hm=da5964f9f303b87145cbe7685844ac8ff1aa30b82d8b3c43f562e7e4ec340e27&=&format=webp&quality=lossless" 
+                      src="https://images-ext-1.discordapp.net/external/vNu5cw0QK-9dSYp9iyVXcmoFVD6isbXJog7zYtAdZ5U/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/532728033459830813/8d6fa9e4d5208ead8e4c1af5a5ddce2b.png?format=webp&quality=lossless" 
                       alt="Profile" 
                       className="w-full h-full object-cover"
                     />
